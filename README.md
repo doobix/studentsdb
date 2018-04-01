@@ -66,4 +66,4 @@ v1.00 - Initial Release
 
 ## License
 
-[MIT](/LICENSE.md)
+[MIT](/LICENSE)
